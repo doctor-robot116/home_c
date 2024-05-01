@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MIPT+student+IOTengineer+Alekseev+Dmitry+D0103102+LearnCProgramming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=2D9CCD&background=5EFF8B00&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=MIPT+student+IOT+engineer;Alekseev+Dmitry+D0103102;Learn+C+Programming)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/doctor-robot116/home_c/blob/main/HW2/logo.png" width="400" />
