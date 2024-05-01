@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MIPT+IOT+engineer+student)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1di21z3aOHAACKWf2hKs34mAiZm9xEHqu/view?usp=drive_link"  width="100" />
+  <img src="https://github.com/doctor-robot116/home_c/blob/main/HW2/logo.png" width="100" />
 </p>
 <p align="center">
     <h1 align="center"></h1>
