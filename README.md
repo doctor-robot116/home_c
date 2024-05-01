@@ -5,7 +5,7 @@
 <p
 </p>
 <p align="center">
-  <img src="https://github.com/doctor-robot116/home_c/blob/main/HW2/logo.png" width="300" />
+  <img src="https://github.com/doctor-robot116/home_c/blob/main/HW2/logo.png" width="250" />
 </p>
 <p align="center">
     <h1 align="center"></h1>
