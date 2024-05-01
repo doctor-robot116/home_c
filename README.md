@@ -37,18 +37,6 @@
 
 ---
 
-##  Overview
-
-HTTP error 401 for prompt `overview`
-
----
-
-##  Features
-
-HTTP error 401 for prompt `features`
-
----
-
 ##  Repository Structure
 
 ```sh
@@ -94,56 +82,56 @@ HTTP error 401 for prompt `features`
 
 <details closed><summary>HW3</summary>
 
-| File                                                                                         | Summary                                         |
-| ---                                                                                          | ---                                             |
-| [5_summ3_A12.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/5_summ3_A12.c)     | HTTP error 401 for prompt `HW3/5_summ3_A12.c`   |
-| [6_diff_3_A13.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/6_diff_3_A13.c)   | HTTP error 401 for prompt `HW3/6_diff_3_A13.c`  |
-| [1_sum_A3.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/1_sum_A3.c)           | HTTP error 401 for prompt `HW3/1_sum_A3.c`      |
-| [4_average_A5.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/4_average_A5.c)   | HTTP error 401 for prompt `HW3/4_average_A5.c`  |
-| [2_sum_mult_A4.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/2_sum_mult_A4.c) | HTTP error 401 for prompt `HW3/2_sum_mult_A4.c` |
-| [3_diff_A6.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/3_diff_A6.c)         | HTTP error 401 for prompt `HW3/3_diff_A6.c`     |
+| File                                                                                        
+| ---                                                                                          
+| [5_summ3_A12.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/5_summ3_A12.c)     
+| [6_diff_3_A13.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/6_diff_3_A13.c)  
+| [1_sum_A3.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/1_sum_A3.c)           
+| [4_average_A5.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/4_average_A5.c)   
+| [2_sum_mult_A4.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/2_sum_mult_A4.c) 
+| [3_diff_A6.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/3_diff_A6.c)         
 
 </details>
 
 <details closed><summary>HW5</summary>
 
-| File                                                                       | Summary                                |
-| ---                                                                        | ---                                    |
-| [3_B3.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/3_B3.c) | HTTP error 401 for prompt `HW5/3_B3.c` |
-| [6_B6.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/6_B6.c) | HTTP error 401 for prompt `HW5/6_B6.c` |
-| [2_B2.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/2_B2.c) | HTTP error 401 for prompt `HW5/2_B2.c` |
-| [1_B1.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/1_B1.c) | HTTP error 401 for prompt `HW5/1_B1.c` |
-| [4_B4.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/4_B4.c) | HTTP error 401 for prompt `HW5/4_B4.c` |
-| [7_B7.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/7_B7.c) | HTTP error 401 for prompt `HW5/7_B7.c` |
-| [5_B5.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/5_B5.c) | HTTP error 401 for prompt `HW5/5_B5.c` |
+| File                                                                       
+| ---                                                                        
+| [3_B3.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/3_B3.c) 
+| [6_B6.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/6_B6.c) 
+| [2_B2.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/2_B2.c) 
+| [1_B1.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/1_B1.c) 
+| [4_B4.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/4_B4.c) 
+| [7_B7.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/7_B7.c) 
+| [5_B5.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/5_B5.c) 
 
 </details>
 
 <details closed><summary>HW4</summary>
 
-| File                                                                           | Summary                                  |
-| ---                                                                            | ---                                      |
-| [1_A7.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/1_A7.c)     | HTTP error 401 for prompt `HW4/1_A7.c`   |
-| [10_A18.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/10_A18.c) | HTTP error 401 for prompt `HW4/10_A18.c` |
-| [9_A17.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/9_A17.c)   | HTTP error 401 for prompt `HW4/9_A17.c`  |
-| [2_A8.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/2_A8.c)     | HTTP error 401 for prompt `HW4/2_A8.c`   |
-| [8_A16.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/8_A16.c)   | HTTP error 401 for prompt `HW4/8_A16.c`  |
-| [5_A10.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/5_A10.c)   | HTTP error 401 for prompt `HW4/5_A10.c`  |
-| [3_A14.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/3_A14.c)   | HTTP error 401 for prompt `HW4/3_A14.c`  |
-| [6_A11.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/6_A11.c)   | HTTP error 401 for prompt `HW4/6_A11.c`  |
-| [7_A15.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/7_A15.c)   | HTTP error 401 for prompt `HW4/7_A15.c`  |
-| [11_A19.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/11_A19.c) | HTTP error 401 for prompt `HW4/11_A19.c` |
-| [4_A9.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/4_A9.c)     | HTTP error 401 for prompt `HW4/4_A9.c`   |
+| File                                                                           
+| ---                                                                            
+| [1_A7.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/1_A7.c)     
+| [10_A18.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/10_A18.c) 
+| [9_A17.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/9_A17.c)   
+| [2_A8.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/2_A8.c)     
+| [8_A16.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/8_A16.c)   
+| [5_A10.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/5_A10.c)   
+| [3_A14.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/3_A14.c)   
+| [6_A11.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/6_A11.c)   
+| [7_A15.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/7_A15.c)   
+| [11_A19.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/11_A19.c) 
+| [4_A9.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/4_A9.c)     
 
 </details>
 
 <details closed><summary>HW1</summary>
 
-| File                                                                           | Summary                                  |
-| ---                                                                            | ---                                      |
-| [ladder.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/ladder.c) | HTTP error 401 for prompt `HW1/ladder.c` |
-| [hello.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/hello.c)   | HTTP error 401 for prompt `HW1/hello.c`  |
-| [full.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/full.c)     | HTTP error 401 for prompt `HW1/full.c`   |
+| File                                                                           
+| ---                                                                            
+| [ladder.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/ladder.c) 
+| [hello.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/hello.c)   
+| [full.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/full.c)     
 
 </details>
 
