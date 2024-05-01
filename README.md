@@ -1,1 +1,1 @@
-[README-AI.md](https://github.com/doctor-robot116/home_c/files/15175146/README-AI.md)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MIPT+IOT+engineer+student)](https://git.io/typing-svg)
