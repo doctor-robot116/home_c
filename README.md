@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=MIPT+student+IOT+engineer;Alekseev+Dmitry+D0103102+Learn+C+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=MIPT+student+IOT+engineer;Alekseev+Dmitry+D0103102;Learn+C+Programming)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github.com/doctor-robot116/home_c/blob/main/HW2/logo.png" width="400" />
+  <img src="https://github.com/doctor-robot116/home_c/blob/main/HW2/logo.png" width="300" />
 </p>
 <p align="center">
     <h1 align="center"></h1>
