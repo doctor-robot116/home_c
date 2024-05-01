@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/github/languages/count/doctor-robot116/home_c?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
-		<em>Developed with the software and tools below.</em>
+		<em>Разработано с использованием программного обеспечения и инструментов, указанных ниже.</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=black" alt="C">
