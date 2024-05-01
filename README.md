@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MIPT+IOT+engineer+student)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://courses.mipt.ru/img/dist/logo.svg?v2" width="100" />
+  <img src="https://courses.mipt.ru/img/dist/logo.svg?v2">
 </p>
 <p align="center">
     <h1 align="center"></h1>
