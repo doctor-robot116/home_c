@@ -27,32 +27,51 @@
 </p>
 <hr>
 
-##  Quick Links
+## 🔗 Quick Links
 
-> - [ Overview](#-overview)
-> - [ Features](#-features)
-> - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running ](#-running-)
->   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
+> - [📍 Overview](#-overview)
+> - [📦 Features](#-features)
+> - [📂 Repository Structure](#-repository-structure)
+> - [🧩 Modules](#-modules)
+> - [🚀 Getting Started](#-getting-started)
+>   - [⚙️ Installation](#️-installation)
+>   - [🤖 Running home_c](#-running-home_c)
+>   - [🧪 Tests](#-tests)
+> - [🛠 Project Roadmap](#-project-roadmap)
+> - [🤝 Contributing](#-contributing)
+> - [📄 License](#-license)
+> - [👏 Acknowledgments](#-acknowledgments)
 
 ---
 
-##  Repository Structure
+## 📍 Overview
+
+<code>► INSERT-TEXT-HERE</code>
+
+---
+
+## 📦 Features
+
+<code>► INSERT-TEXT-HERE</code>
+
+---
+
+## 📂 Repository Structure
 
 ```sh
-└── /
+└── home_c/
     ├── HW1
     │   ├── full.c
     │   ├── hello.c
     │   └── ladder.c
+    ├── HW10
+    │   ├── G1.c
+    │   ├── G2.c
+    │   ├── G3.c
+    │   ├── G4.c
+    │   └── G5.c
     ├── HW2
+    │   ├── logo.png
     │   └── ДЗ_2_АлексеевДА.pdf
     ├── HW3
     │   ├── 1_sum_A3.c
@@ -73,7 +92,7 @@
     │   ├── 7_A15.c
     │   ├── 8_A16.c
     │   └── 9_A17.c
-    └── HW5
+    ├── HW5
     │   ├── 1_B1.c
     │   ├── 2_B2.c
     │   ├── 3_B3.c
@@ -81,99 +100,165 @@
     │   ├── 5_B5.c
     │   ├── 6_B6.c
     │   ├── 7_B7.c
-    │   ├── 6_A11.c
-    │   ├── 7_A15.c
-    │   ├── 8_A16.c
-    │   └── 9_A17.c
-    └── HW6
-    │   ├── 1_C1.c	Составить функцию, модуль числа и привести пример ее использования. Формат входных данных - Целое число. Формат результата - Целое не отрицательное число.
+    │   ├── 8_B8.c
+    │   └── 9_B9.c
+    ├── HW6
+    │   ├── 1_C1.c
     │   ├── 2_C2.c
     │   ├── 3_C3.c
     │   ├── 4_C4.c
-    │   ├── 5_C5.c
-    │   ├── 6
-    │   ├── 7
-    │   ├── 8
-    │   ├── 9
-    │   ├── 10
-    │   └── 11
-    │   ├── 12
-    │   ├── 13
-    │   ├── 14
-    │   ├── 15
-    │   ├── 16
-    │   ├── 17
-    │   ├── 18
-    │   ├── 19
-    │   ├── 20
-    │   └── 21
-    └── HW7
-
-```
+    │   └── 5_C5.c
+    ├── HW7
+    │   ├── 1_D1.c
+    │   ├── 2_D2.c
+    │   ├── 3_D3.c
+    │   ├── 4_D4.c
+    │   ├── 5_D5.c
+    │   ├── 6_D6.c
+    │   └── 7_D7.c
+    ├── HW8
+    │   ├── E1.c
+    │   ├── E2.c
+    │   ├── E3.c
+    │   ├── E4-1.c
+    │   ├── E4.c
+    │   └── E5.c
+    ├── HW9
+    │   ├── F1.c
+    │   ├── F2.c
+    │   ├── F3.c
+    │   ├── F4.c
+    │   └── F5.c
+    └── README.md
 ```
 
 ---
 
-##  Modules
+## 🧩 Modules
+
+<details closed><summary>HW8</summary>
+
+| File                                                                       | Summary                         |
+| ---                                                                        | ---                             |
+| [E3.c](https://github.com/doctor-robot116/home_c/blob/master/HW8/E3.c)     | <code>► INSERT-TEXT-HERE</code> |
+| [E1.c](https://github.com/doctor-robot116/home_c/blob/master/HW8/E1.c)     | <code>► INSERT-TEXT-HERE</code> |
+| [E5.c](https://github.com/doctor-robot116/home_c/blob/master/HW8/E5.c)     | <code>► INSERT-TEXT-HERE</code> |
+| [E4.c](https://github.com/doctor-robot116/home_c/blob/master/HW8/E4.c)     | <code>► INSERT-TEXT-HERE</code> |
+| [E4-1.c](https://github.com/doctor-robot116/home_c/blob/master/HW8/E4-1.c) | <code>► INSERT-TEXT-HERE</code> |
+| [E2.c](https://github.com/doctor-robot116/home_c/blob/master/HW8/E2.c)     | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
 
 <details closed><summary>HW3</summary>
 
-| File                                                                                        
-| ---                                                                                          
-| [5_summ3_A12.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/5_summ3_A12.c)     
-| [6_diff_3_A13.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/6_diff_3_A13.c)  
-| [1_sum_A3.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/1_sum_A3.c)           
-| [4_average_A5.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/4_average_A5.c)   
-| [2_sum_mult_A4.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/2_sum_mult_A4.c) 
-| [3_diff_A6.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/3_diff_A6.c)         
+| File                                                                                         | Summary                         |
+| ---                                                                                          | ---                             |
+| [5_summ3_A12.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/5_summ3_A12.c)     | <code>► INSERT-TEXT-HERE</code> |
+| [6_diff_3_A13.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/6_diff_3_A13.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [1_sum_A3.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/1_sum_A3.c)           | <code>► INSERT-TEXT-HERE</code> |
+| [4_average_A5.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/4_average_A5.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [2_sum_mult_A4.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/2_sum_mult_A4.c) | <code>► INSERT-TEXT-HERE</code> |
+| [3_diff_A6.c](https://github.com/doctor-robot116/home_c/blob/master/HW3/3_diff_A6.c)         | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
 <details closed><summary>HW5</summary>
 
-| File                                                                       
-| ---                                                                        
-| [3_B3.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/3_B3.c) 
-| [6_B6.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/6_B6.c) 
-| [2_B2.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/2_B2.c) 
-| [1_B1.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/1_B1.c) 
-| [4_B4.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/4_B4.c) 
-| [7_B7.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/7_B7.c) 
-| [5_B5.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/5_B5.c) 
+| File                                                                       | Summary                         |
+| ---                                                                        | ---                             |
+| [3_B3.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/3_B3.c) | <code>► INSERT-TEXT-HERE</code> |
+| [6_B6.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/6_B6.c) | <code>► INSERT-TEXT-HERE</code> |
+| [2_B2.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/2_B2.c) | <code>► INSERT-TEXT-HERE</code> |
+| [1_B1.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/1_B1.c) | <code>► INSERT-TEXT-HERE</code> |
+| [8_B8.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/8_B8.c) | <code>► INSERT-TEXT-HERE</code> |
+| [4_B4.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/4_B4.c) | <code>► INSERT-TEXT-HERE</code> |
+| [7_B7.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/7_B7.c) | <code>► INSERT-TEXT-HERE</code> |
+| [5_B5.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/5_B5.c) | <code>► INSERT-TEXT-HERE</code> |
+| [9_B9.c](https://github.com/doctor-robot116/home_c/blob/master/HW5/9_B9.c) | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
 <details closed><summary>HW4</summary>
 
-| File                                                                           
-| ---                                                                            
-| [1_A7.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/1_A7.c)     
-| [10_A18.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/10_A18.c) 
-| [9_A17.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/9_A17.c)   
-| [2_A8.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/2_A8.c)     
-| [8_A16.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/8_A16.c)   
-| [5_A10.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/5_A10.c)   
-| [3_A14.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/3_A14.c)   
-| [6_A11.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/6_A11.c)   
-| [7_A15.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/7_A15.c)   
-| [11_A19.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/11_A19.c) 
-| [4_A9.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/4_A9.c)     
+| File                                                                           | Summary                         |
+| ---                                                                            | ---                             |
+| [1_A7.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/1_A7.c)     | <code>► INSERT-TEXT-HERE</code> |
+| [10_A18.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/10_A18.c) | <code>► INSERT-TEXT-HERE</code> |
+| [9_A17.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/9_A17.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [2_A8.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/2_A8.c)     | <code>► INSERT-TEXT-HERE</code> |
+| [8_A16.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/8_A16.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [5_A10.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/5_A10.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [3_A14.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/3_A14.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [6_A11.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/6_A11.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [7_A15.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/7_A15.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [11_A19.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/11_A19.c) | <code>► INSERT-TEXT-HERE</code> |
+| [4_A9.c](https://github.com/doctor-robot116/home_c/blob/master/HW4/4_A9.c)     | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
 <details closed><summary>HW1</summary>
 
-| File                                                                           
-| ---                                                                            
-| [ladder.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/ladder.c) 
-| [hello.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/hello.c)   
-| [full.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/full.c)     
+| File                                                                           | Summary                         |
+| ---                                                                            | ---                             |
+| [ladder.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/ladder.c) | <code>► INSERT-TEXT-HERE</code> |
+| [hello.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/hello.c)   | <code>► INSERT-TEXT-HERE</code> |
+| [full.c](https://github.com/doctor-robot116/home_c/blob/master/HW1/full.c)     | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>HW7</summary>
+
+| File                                                                       | Summary                         |
+| ---                                                                        | ---                             |
+| [4_D4.c](https://github.com/doctor-robot116/home_c/blob/master/HW7/4_D4.c) | <code>► INSERT-TEXT-HERE</code> |
+| [6_D6.c](https://github.com/doctor-robot116/home_c/blob/master/HW7/6_D6.c) | <code>► INSERT-TEXT-HERE</code> |
+| [2_D2.c](https://github.com/doctor-robot116/home_c/blob/master/HW7/2_D2.c) | <code>► INSERT-TEXT-HERE</code> |
+| [7_D7.c](https://github.com/doctor-robot116/home_c/blob/master/HW7/7_D7.c) | <code>► INSERT-TEXT-HERE</code> |
+| [1_D1.c](https://github.com/doctor-robot116/home_c/blob/master/HW7/1_D1.c) | <code>► INSERT-TEXT-HERE</code> |
+| [5_D5.c](https://github.com/doctor-robot116/home_c/blob/master/HW7/5_D5.c) | <code>► INSERT-TEXT-HERE</code> |
+| [3_D3.c](https://github.com/doctor-robot116/home_c/blob/master/HW7/3_D3.c) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>HW9</summary>
+
+| File                                                                   | Summary                         |
+| ---                                                                    | ---                             |
+| [F1.c](https://github.com/doctor-robot116/home_c/blob/master/HW9/F1.c) | <code>► INSERT-TEXT-HERE</code> |
+| [F4.c](https://github.com/doctor-robot116/home_c/blob/master/HW9/F4.c) | <code>► INSERT-TEXT-HERE</code> |
+| [F2.c](https://github.com/doctor-robot116/home_c/blob/master/HW9/F2.c) | <code>► INSERT-TEXT-HERE</code> |
+| [F5.c](https://github.com/doctor-robot116/home_c/blob/master/HW9/F5.c) | <code>► INSERT-TEXT-HERE</code> |
+| [F3.c](https://github.com/doctor-robot116/home_c/blob/master/HW9/F3.c) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>HW6</summary>
+
+| File                                                                       | Summary                         |
+| ---                                                                        | ---                             |
+| [3_C3.c](https://github.com/doctor-robot116/home_c/blob/master/HW6/3_C3.c) | <code>► INSERT-TEXT-HERE</code> |
+| [4_C4.c](https://github.com/doctor-robot116/home_c/blob/master/HW6/4_C4.c) | <code>► INSERT-TEXT-HERE</code> |
+| [2_C2.c](https://github.com/doctor-robot116/home_c/blob/master/HW6/2_C2.c) | <code>► INSERT-TEXT-HERE</code> |
+| [1_C1.c](https://github.com/doctor-robot116/home_c/blob/master/HW6/1_C1.c) | <code>► INSERT-TEXT-HERE</code> |
+| [5_C5.c](https://github.com/doctor-robot116/home_c/blob/master/HW6/5_C5.c) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>HW10</summary>
+
+| File                                                                    | Summary                         |
+| ---                                                                     | ---                             |
+| [G3.c](https://github.com/doctor-robot116/home_c/blob/master/HW10/G3.c) | <code>► INSERT-TEXT-HERE</code> |
+| [G1.c](https://github.com/doctor-robot116/home_c/blob/master/HW10/G1.c) | <code>► INSERT-TEXT-HERE</code> |
+| [G2.c](https://github.com/doctor-robot116/home_c/blob/master/HW10/G2.c) | <code>► INSERT-TEXT-HERE</code> |
+| [G4.c](https://github.com/doctor-robot116/home_c/blob/master/HW10/G4.c) | <code>► INSERT-TEXT-HERE</code> |
+| [G5.c](https://github.com/doctor-robot116/home_c/blob/master/HW10/G5.c) | <code>► INSERT-TEXT-HERE</code> |
 
 </details>
 
 ---
 
-##  Getting Started
+## 🚀 Getting Started
 
 ***Requirements***
 
@@ -181,18 +266,18 @@ Ensure you have the following dependencies installed on your system:
 
 * **C**: `version x.y.z`
 
-###  Installation
+### ⚙️ Installation
 
-1. Clone the  repository:
+1. Clone the home_c repository:
 
 ```sh
-git clone https://github.com/doctor-robot116/home_c/
+git clone https://github.com/doctor-robot116/home_c
 ```
 
 2. Change to the project directory:
 
 ```sh
-cd 
+cd home_c
 ```
 
 3. Install the dependencies:
@@ -201,15 +286,15 @@ cd
 gcc -o myapp main.c
 ```
 
-###  Running 
+### 🤖 Running home_c
 
-Use the following command to run :
+Use the following command to run home_c:
 
 ```sh
 ./myapp
 ```
 
-###  Tests
+### 🧪 Tests
 
 To execute tests, run:
 
@@ -219,7 +304,7 @@ To execute tests, run:
 
 ---
 
-##  Project Roadmap
+## 🛠 Project Roadmap
 
 - [X] `► INSERT-TASK-1`
 - [ ] `► INSERT-TASK-2`
@@ -227,13 +312,13 @@ To execute tests, run:
 
 ---
 
-##  Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
 
 - **[Submit Pull Requests](https://github.com/doctor-robot116/home_c/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 - **[Join the Discussions](https://github.com/doctor-robot116/home_c/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/doctor-robot116/home_c/issues)**: Submit bugs found or log feature requests for .
+- **[Report Issues](https://github.com/doctor-robot116/home_c/issues)**: Submit bugs found or log feature requests for Home_c.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
@@ -241,7 +326,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
    ```sh
-   git clone https://github.com/doctor-robot116/home_c/
+   git clone https://github.com/doctor-robot116/home_c
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -264,13 +349,13 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ---
 
-##  License
+## 📄 License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
-##  Acknowledgments
+## 👏 Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
 
